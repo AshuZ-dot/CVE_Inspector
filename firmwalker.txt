@@ -1,0 +1,3 @@
+***Firmware Directory***
+uart_logs/uart_boot_log
+***Search for password files***
